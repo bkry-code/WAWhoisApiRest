@@ -1,4 +1,6 @@
 WAWhoisApiRest
 ==============
 
-Rest API for WHOIS
+Rest API for WHOIS.
+
+Open source code.
